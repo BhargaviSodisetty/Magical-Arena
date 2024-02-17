@@ -5,10 +5,4 @@ Make sure you have Java installed on your computer.Download the Code: Download t
 
 How to Play:
 
-*Two players, Player A and Player B, fight each other.
-*Each player has their own health, attack power, and defense strength.
-*Players take turns attacking and defending.
-*When a player attacks, they roll a dice to determine how strong their attack is.
-*When a player defends, they also roll a dice to determine how well they defend.
-*Damage is calculated based on these rolls and the players' attributes.
-*The game continues until one player's health reduces to 0.
+*Two players, Player A and Player B, fight each other.Each player has their own health, attack power, and defense strength.Players take turns attacking and defending.When a player attacks, they roll a dice to determine how strong their attack is.When a player defends, they also roll a dice to determine how well they defend.Damage is calculated based on these rolls and the players' attributes.The game continues until one player's health reduces to 0.
