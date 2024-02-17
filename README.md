@@ -1,10 +1,7 @@
 How to run:
 
-*Get Java: Make sure you have Java installed on your computer.
-*Download the Code: Download the code from the provided link or clone the repository using Git.
-*Open Terminal/Command Prompt: Navigate to the folder where you downloaded the code using Terminal (on Mac/Linux) or Command Prompt (on Windows).
-*Compile the Code: Type javac Main.java and hit Enter. This will compile the Java files.
-*Run the Program: Type java Main and hit Enter. Now the game should start running.
+*Get Java
+Make sure you have Java installed on your computer.Download the Code: Download the code from the provided link or clone the repository using Git.Open Terminal/Command Prompt: Navigate to the folder where you downloaded the code using Terminal (on Mac/Linux) or Command Prompt (on Windows).Compile the Code: Type javac Main.java and hit Enter. This will compile the Java files.Run the Program: Type java Main and hit Enter. Now the game should start running.
 
 How to Play:
 
